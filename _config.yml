@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: Mz Su
 subtitle: ''
 description: ''
 keywords:
@@ -12,8 +12,8 @@ language: en
 timezone: ''
 
 # URL
-## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+## If your site is put in a subdirectory, set url as 'https://mzsu.github.io' and root as '/child/'
+url: https://mzsu.github.io
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
